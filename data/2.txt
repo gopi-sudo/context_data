@@ -1,0 +1,29 @@
+Q: What is NumPy?
+A: NumPy is a Python library for numerical computations, particularly for numerical operations on large, multi-dimensional arrays and matrices.
+
+Q: Why is NumPy used?
+A: NumPy is used for numerical computations in scientific and engineering applications, data analysis, machine learning, and other areas that require fast and efficient computation on large datasets.
+
+Q: What are the benefits of using NumPy over Python lists?
+A: NumPy arrays are more efficient and faster than Python lists for numerical operations. They also provide a wide range of mathematical functions for performing complex operations on arrays.
+
+Q: What is an ndarray in NumPy?
+A: An ndarray is a multi-dimensional array object in NumPy. It is a table of elements (usually numbers) with the same type, indexed by a tuple of positive integers.
+
+Q: How can you create a NumPy array?
+A: NumPy arrays can be created using various methods such as np.array(), np.zeros(), np.ones(), np.arange(), np.linspace() and np.random.random().
+
+Q: What is slicing in NumPy?
+A: Slicing is a technique used to extract a portion of a NumPy array. It is similar to slicing in Python lists, but can be used for multi-dimensional arrays.
+
+Q: What is broadcasting in NumPy?
+A: Broadcasting is a mechanism in NumPy that allows arrays with different shapes to be used in arithmetic operations. It eliminates the need for explicit loops and makes code more concise and readable.
+
+Q: What is the difference between shallow copy and deep copy in NumPy?
+A: A shallow copy creates a new object that points to the original object's data, while a deep copy creates a new object with its own copy of the data. A shallow copy is faster and more memory-efficient, but changes to the original object can affect the copy.
+
+Q: What are universal functions in NumPy?
+A: Universal functions (ufuncs) are functions that operate element-wise on arrays, producing a new array as output. They are implemented in C and can be used for fast computation on large arrays.
+
+Q: How can you save and load NumPy arrays?
+A: NumPy arrays can be saved to disk using np.save() and np.savez() functions, and loaded using np.load() function.

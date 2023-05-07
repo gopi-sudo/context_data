@@ -1,0 +1,29 @@
+What is AI?
+AI stands for Artificial Intelligence, which refers to the development of computer systems that can perform tasks that typically require human intelligence, such as perception, reasoning, and learning.
+
+What are the main types of AI?
+There are three main types of AI: rule-based systems, machine learning, and deep learning.
+
+What is a rule-based system?
+A rule-based system is a type of AI that uses a set of pre-defined rules to make decisions or perform tasks.
+
+What is machine learning?
+Machine learning is a type of AI that allows computers to learn from data without being explicitly programmed.
+
+What is deep learning?
+Deep learning is a type of machine learning that uses neural networks with multiple layers to perform complex tasks such as image recognition and natural language processing.
+
+What are some real-world applications of AI?
+Some real-world applications of AI include speech recognition, image recognition, natural language processing, autonomous vehicles, and robotics.
+
+What are the potential benefits of AI?
+The potential benefits of AI include increased efficiency, improved accuracy, and the ability to automate tasks that are difficult, dangerous, or impossible for humans to perform.
+
+What are the potential risks of AI?
+The potential risks of AI include job displacement, biased decision-making, loss of privacy, and the potential for AI systems to be used for malicious purposes.
+
+What is the Turing Test?
+The Turing Test is a test of a machine's ability to exhibit intelligent behavior that is indistinguishable from that of a human.
+
+Can AI replace human workers?
+AI has the potential to automate many tasks that are currently performed by humans, but it is unlikely to replace all human workers in the foreseeable future.

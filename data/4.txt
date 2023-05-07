@@ -1,0 +1,22 @@
+
+
+Q: What is a transformer model?
+A: A transformer model is a type of deep neural network architecture that was introduced in the paper "Attention is All You Need" by Vaswani et al. in 2017. It uses a self-attention mechanism to process input sequences, and has been shown to be highly effective for a variety of natural language processing (NLP) tasks, such as machine translation, language modeling, and sentiment analysis.
+
+Q: How does a transformer model work?
+A: At a high level, a transformer model consists of an encoder and a decoder. The encoder takes in an input sequence, such as a sentence or a document, and produces a sequence of hidden representations that capture the meaning of the input. The decoder then uses these representations to generate an output sequence, such as a translation or a paraphrase. The key innovation of the transformer is its use of self-attention, which allows the model to attend to different parts of the input sequence at different times, without the need for recurrent connections.
+
+Q: What is self-attention?
+A: Self-attention is a mechanism that allows a neural network to weigh different parts of an input sequence differently when processing it. In a transformer model, self-attention is used to compute a weighted sum of the input sequence at each position, where the weights are determined by a learned function of the input sequence itself. This allows the model to attend to different parts of the input sequence at different times, without the need for recurrent connections.
+
+Q: What is a multi-head attention mechanism?
+A: A multi-head attention mechanism is a variant of self-attention that allows the model to attend to multiple "heads" of the input sequence simultaneously. In a transformer model, the self-attention mechanism is split into multiple heads, and each head computes its own attention weights and output vector. The outputs of the multiple heads are then concatenated and linearly transformed to produce the final output.
+
+Q: What is pretraining in the context of transformer models?
+A: Pretraining is a technique in which a transformer model is first trained on a large corpus of text, such as Wikipedia or a web crawl, in an unsupervised fashion. This pretraining step allows the model to learn general-purpose language representations that can be fine-tuned for specific downstream NLP tasks, such as sentiment analysis or machine translation.
+
+Q: What is fine-tuning in the context of transformer models?
+A: Fine-tuning is a technique in which a pre-trained transformer model is further trained on a smaller labeled dataset for a specific NLP task, such as sentiment analysis or machine translation. During fine-tuning, the weights of the model are adjusted to optimize for the specific task, while still leveraging the general-purpose language representations learned during pretraining.
+
+Q: What are some examples of transformer-based models?
+A: Some examples of transformer-based models include BERT (Bidirectional Encoder Representations from Transformers), GPT-2 (Generative Pre-trained Transformer 2), and T5 (Text-to-Text Transfer Transformer). These models have achieved state-of-the-art results on a wide range of NLP tasks.
